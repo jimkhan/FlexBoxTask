@@ -1,0 +1,14 @@
+com/sohopathi/MainApplication.java
+ com.sohopathi.MainApplication
+ com.sohopathi.MainApplication$1
+com/sohopathi/BuildConfig.java
+ com.sohopathi.BuildConfig
+com/sohopathi/MainActivity.java
+ com.sohopathi.MainActivity
+com/sohopathi/ReactNativeFlipper.java
+ com.sohopathi.ReactNativeFlipper
+ com.sohopathi.ReactNativeFlipper$1
+ com.sohopathi.ReactNativeFlipper$2
+ com.sohopathi.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
