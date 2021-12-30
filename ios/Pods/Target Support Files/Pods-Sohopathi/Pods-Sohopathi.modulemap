@@ -1,6 +1,0 @@
-module Pods_Sohopathi {
-  umbrella header "Pods-Sohopathi-umbrella.h"
-
-  export *
-  module * { export * }
-}
